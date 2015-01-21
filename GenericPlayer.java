@@ -1,4 +1,4 @@
-package stf;
+package AndroidGobbler;
 
 public class GenericPlayer {
 	public Table t;

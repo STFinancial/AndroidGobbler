@@ -1,4 +1,4 @@
-package stf;
+package AndroidGobbler;
 
 
 public final class Constants {

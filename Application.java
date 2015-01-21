@@ -1,4 +1,4 @@
-package stf;
+package AndroidGobbler;
 
 import java.util.Random;
 
@@ -23,7 +23,7 @@ public class Application {
 		 * Won't render unless I wait a sec
 		 */
 		try {
-			Thread.sleep(50);
+			Thread.sleep(100);
 		} catch (InterruptedException e) {e.printStackTrace();}
 		stuff();
 	}

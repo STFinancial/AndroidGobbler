@@ -1,4 +1,4 @@
-package stf;
+package AndroidGobbler;
 
 public class Move {
 	Piece piece;

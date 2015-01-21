@@ -1,4 +1,4 @@
-package stf;
+package AndroidGobbler;
 
 public class Piece {
 	public int power; //power is 1 - 4
